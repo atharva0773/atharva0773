@@ -1,8 +1,8 @@
 ### Hi there 👋
-<img src="" class="https://cdn3d.iconscout.com/3d/premium/thumb/web-developer-4506461-3738664.png" alt=" I ll fix ">
+
 <h1 align="center"> I'm Atharva singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img src="" class="https://cdn3d.iconscout.com/3d/premium/thumb/web-developer-4506461-3738664.png" alt=" I ll fix ">
 - 📫 How to reach me **atharvasingh0072@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
