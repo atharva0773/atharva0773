@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1> Hi there 👋</h1>
 
 <h1 align="center"> I'm Atharva singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
