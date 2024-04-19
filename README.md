@@ -2,7 +2,7 @@
 
 <h1 align="center"> I'm Atharva singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://tse4.mm.bing.net/th?id=OIP.pXXS2oC8_UoXCrkJ_rkaUwHaHa&pid=Api&P=0&h=180" class="" alt=" I ll fix ">
+<img  src="[https://tse4.mm.bing.net/th?id=OIP.pXXS2oC8_UoXCrkJ_rkaUwHaHa&pid=Api&P=0&h=18](https://tse1.mm.bing.net/th?id=OIP.H8Kupkksq5d677yVw_orGgHaFR&pid=Api&P=0&h=180)0" class="" alt=" I ll fix ">
 - 📫 How to reach me **atharvasingh0072@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
